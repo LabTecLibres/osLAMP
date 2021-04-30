@@ -11,6 +11,7 @@ Properties:
 
 ## Fluorescent system
 Each slot is illumianted independently by a 470 nm Blue LED and its output fluorescence is filtered with an acrylic ambar filter.
+[Here is a video](https://youtu.be/AkcPB8lAxPg) of the working system.
 
 ## General system description
 ![image12.png)](reports/images_n01/image12.png)
